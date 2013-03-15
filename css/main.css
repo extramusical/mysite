@@ -1,3 +1,7 @@
 body {
       background-color: #90C5E0;
 }
+
+ul li{
+    display: inline;
+}

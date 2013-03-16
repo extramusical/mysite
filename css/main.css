@@ -11,7 +11,7 @@ img{
 }
 
 ul {
-    display:inline;
+    
     float: right;
 }
 
@@ -20,7 +20,7 @@ a {
 }
 
 h1 {
-	float: clear;
+	float: left;
 }
 
 ol li{

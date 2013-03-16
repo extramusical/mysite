@@ -10,7 +10,7 @@ img{
     padding: 10px;
 }
 
-ul li{
+ul {
     display:inline;
     float: right;
 }

@@ -8,6 +8,6 @@ ul li{
     display: inline;
 }
 
-a href{
-   font: white;
+a {
+   color: white;
 }

@@ -13,9 +13,6 @@ img{
 
 
 a {
+   float: right;
    color: #fff;
-}
-
-h1 {
-	float: left;
 }

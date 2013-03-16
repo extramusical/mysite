@@ -6,7 +6,8 @@ body {
 }
 
 img{
-    float: right;
+    float: left;
+    padding: 10px;
 }
 
 ul li{

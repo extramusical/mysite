@@ -16,11 +16,7 @@ img{
 
 ul li{
    color: #fff;
-   float: right;
-}
-
-h1{
-	float: clear;
+   margin: 50px, 50px, 50px;
 }
 
 a {

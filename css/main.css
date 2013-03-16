@@ -1,8 +1,8 @@
 body {
       
-      font-family: 'Merriweather Sans', sans-serif;
+      font-family: 'Merriweather Sans', sans-serif; color: white;
 	  background-image: url("http://extramusical.github.com/mysite/images/xdrums_bg_image.jpg");
-	  font-color: white; 
+}
 
 ul li{
     display: inline;

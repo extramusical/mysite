@@ -4,6 +4,10 @@ body {
 	  background-image: url("http://extramusical.github.com/mysite/images/xdrums_bg_image.jpg");
 }
 
+ol li{
+    float: right;
+}
+
 ul li{
     display: inline;
 }

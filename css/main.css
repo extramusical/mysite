@@ -14,7 +14,7 @@ img{
 
 ul li{
    color: #fff;
-   margin: 50px;
+   margin: 50px, 50px, 50px;
 }
 
 a {

@@ -8,6 +8,7 @@ body {
 img{
     float: left;
     padding: 10px;
+    margin: 10px;
 }
 
 ul {
@@ -21,8 +22,4 @@ a {
 
 h1 {
 	float: left;
-}
-
-ol li{
-    float: right;
 }

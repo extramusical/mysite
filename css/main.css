@@ -19,5 +19,9 @@ a
 }
 
 h1 {
-	float: right;
+	float: left;
+}
+
+ol li{
+    float: left
 }

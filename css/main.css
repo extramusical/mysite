@@ -6,8 +6,8 @@ body {
 
 
 ul li{
-    display: inline;
-    float: right;
+    display:inline;
+    float: left;
 }
 
 a 

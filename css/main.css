@@ -8,7 +8,7 @@ body {
       width: 800px;
       margin: 0 auto;
       font-family: 'Merriweather Sans', sans-serif; color: white;
-	  background-image: url("~/Desktop/WSD1303_Wk2_Robbins_David/images/xdrums_bg_image.jpg");
+	  background-image: url("/Desktop/WSD1303_Wk2_Robbins_David/images/xdrums_bg_image.jpg");
 	  opacity: .5;
 }
 

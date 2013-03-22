@@ -16,7 +16,11 @@ img{
 
 ul li{
    color: #fff;
-   margin: 50px, 50px, 50px;
+   float: right;
+}
+
+h1{
+	float: clear;
 }
 
 a {
@@ -25,4 +29,8 @@ a {
 
 h2 {
     font-size: 16px;
+}
+
+#gallery {
+	float: left;
 }

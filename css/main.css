@@ -35,6 +35,8 @@ ol{
 
 .gallery {
 	float: left;
+    padding: 10px;
+    margin: 10px;
 }
 
 a {

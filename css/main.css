@@ -31,7 +31,11 @@ h1{
 }
 
 ol{
-	float: right;
+	float: center;
+}
+
+.gallery {
+	float: left;
 }
 
 a {
@@ -39,12 +43,10 @@ a {
 }
 
 h2 {
+    clear: both;
     font-size: 16px;
 }
 
-.gallery {
-	clear: both;
-}
 
 p {
 	float: left;

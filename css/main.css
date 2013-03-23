@@ -10,7 +10,6 @@ body {
       font-family: 'Merriweather Sans', sans-serif; color: white;
 	  background-image: url("http://extramusical.github.com/mysite/images/xdrums_bg_image.jpg");
 	  opacity: .5;
-	  clear: both;
 }
 
 img {
@@ -29,10 +28,11 @@ h1{
 	clear: both;
 	float: left;
 	padding: 30px;
+	bgcolor: white;
 }
 
 ol{
-	/*float: right;*/
+	float: right;
 	padding: 15px;
 }
 

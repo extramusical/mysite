@@ -26,6 +26,7 @@ img {
 
 h1{
 	clear: both;
+	float: left;
 	padding: 30px;
 }
 

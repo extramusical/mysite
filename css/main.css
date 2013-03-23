@@ -28,11 +28,11 @@ h1{
 	clear: both;
 	float: left;
 	padding: 30px;
-	background-color: white;
+	*/background-color: white;/*
 }
 
 ol{
-	float: right;
+	*/float: right;/*
 	padding: 15px;
 }
 

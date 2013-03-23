@@ -10,6 +10,7 @@ body {
       font-family: 'Merriweather Sans', sans-serif; color: white;
 	  background-image: url("http://extramusical.github.com/mysite/images/xdrums_bg_image.jpg");
 	  opacity: .5;
+	  clear: both;
 }
 
 img {

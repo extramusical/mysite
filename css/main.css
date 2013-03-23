@@ -22,11 +22,11 @@ img {
 
 .nav_menu{
    color: #fff;
-   clear: both;
+   float: right;
 }
 
 h1{
-	float: left;
+	clear: both;
 }
 
 a {

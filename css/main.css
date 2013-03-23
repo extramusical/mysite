@@ -30,6 +30,10 @@ h1{
 	clear: both;
 }
 
+ol{
+	float: right;
+}
+
 a {
 	color: #fff;
 }

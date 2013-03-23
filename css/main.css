@@ -21,12 +21,12 @@ img {
 .nav_menu{
    color: #fff;
    float: right;
-   padding: 30px;
+   padding: 35px;
 }
 
 h1{
 	clear: both;
-	padding: 30px;
+	padding: 10px, 30px, 10px, 30px;
 }
 
 ol{

@@ -43,7 +43,7 @@ h2 {
 }
 
 #gallery {
-	float: left;
+	clear: both;
 }
 
 p {

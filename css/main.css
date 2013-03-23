@@ -20,9 +20,9 @@ img {
     border-radius: 10px;
 }
 
-#nav_menu{
+.nav_menu{
    color: #fff;
-   float: none;
+   clear: both;
 }
 
 h1{

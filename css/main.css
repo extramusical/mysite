@@ -30,10 +30,11 @@ h1{
 	padding: 10px;
 }	
 
-*/ol{
+ol{
+	clear: both;
 	float: right;
 	padding: 15px;
-}/*
+}
 
 .gallery {
 	float: left;
